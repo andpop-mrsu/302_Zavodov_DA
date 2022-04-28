@@ -1,0 +1,4 @@
+1 Ivan Ivanov ФМиИТ 3 2
+2 Boris Fedotov ФМиИТ 3 2
+3 Vadim Konovalov ФМиИТ 3 2
+4 Dima Zavodov ФМиИТ 3 2
